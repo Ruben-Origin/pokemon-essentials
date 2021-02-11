@@ -104,7 +104,7 @@ $VersionStyles = [
   [MessageConfig::FontName],   # Default font style - Power Green/"Pokemon Emerald"
   ["Power Red and Blue"],
   ["Power Red and Green"],
-  ["Power Clear"]
+  ["Power Green"]
 ]
 
 def pbSettingToTextSpeed(speed)
@@ -496,7 +496,7 @@ class PokemonOption_Scene
            MessageConfig.pbSetSystemFrame($TextFrames[value])
          }
        ),
-       EnumOption.new(_INTL("Font Style"),[_INTL("Em"),_INTL("R/S"),_INTL("FRLG"),_INTL("DP")],
+       EnumOption.new(_INTL("Font Style"),[_INTL("DP"),_INTL("R/S"),_INTL("FRLG"),_INTL("Em")],
          proc { $PokemonSystem.font },
          proc { |value|
            $PokemonSystem.font = value

@@ -1,5 +1,5 @@
 module MessageConfig
-  FontName        = "Power Green"
+  FontName        = "Power Clear"
   # in Graphics/Windowskins/ (specify empty string to use the default windowskin)
   TextSkinName    = "speech hgss 1"
   ChoiceSkinName  = "choice 1"
