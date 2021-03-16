@@ -29,7 +29,7 @@ class Spriteset_Map
     SHOWHPBARS=false
 
     # When above 0, only displays HUD when this switch is on.
-    SWITCHNUMBER = 0
+    SWITCHNUMBER = 80
 
     # Lower this number = more lag.
     FRAMESPERUPDATE=2

@@ -13,8 +13,19 @@ LOOP_TABLE = [
 # Add here
 
   [ "Audio/BGM/New_Bark_Town_HGSS", 7671, 60192 ],
-  [ "Audio/BGM/Route_29_HGSS", 7619, 58181 ]
-  
+  [ "Audio/BGM/Surfing", 71140, 141730 ],
+  [ "Audio/BGM/Bicycle", 51363, 100256 ],
+  [ "Audio/BGM/Battle_wild", 3041, 65180 ],
+  [ "Audio/BGM/Battle_trainer", 12808, 94450 ],
+  [ "Audio/BGM/Route_29_HGSS", 7619, 58181 ],
+  [ "Audio/BGM/Elm_Pokemon_Lab_HGSS", 6579, 39633 ],
+  [ "Audio/BGM/Someday_SM", 54177, 99354 ],
+  [ "Audio/BGM/Battle_Wild_Johto_HGSS", 15938, 52650 ],
+  [ "Audio/BGM/Battle_Trainer_Johto_HGSS", 23918, 1205292 ],
+  [ "Audio/BGM/Hurry_Along_HGSS", 8381, 15884 ],
+  [ "Audio/BGM/Lyra_HGSS", 2420, 29347 ],
+  [ "Audio/BGM/begin", 7724, 33324 ]
+
 # Note : Renember to add a comma after each ]
 # (except for the last line and the below ]).
 ]

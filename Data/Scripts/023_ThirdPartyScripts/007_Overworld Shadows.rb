@@ -52,7 +52,9 @@ No_Shadow_If_Event_Name_Has = [
     ".sl",
     "Door",
     "Stairs",
-    "BerryPlant"
+    "BerryPlant",
+    "windturbine",
+    "RegularTone"
 ]
 
 # Events that have this in their event name will always receive a shadow.

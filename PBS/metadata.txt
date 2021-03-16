@@ -3,13 +3,13 @@
 [000]
 PlayerA = POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,boy_fish_offset
 PlayerB = POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,girl_fish_offset
-TrainerVictoryME = Battle victory trainer.ogg
-WildVictoryME = Battle victory wild.ogg
-TrainerBattleBGM = Battle trainer.mid
-SurfBGM = Surfing.mid
-BicycleBGM = Bicycle.mid
-Home = 3,7,5,8
-WildBattleBGM = Battle wild.mid
+TrainerVictoryME = Battle victory trainer
+WildVictoryME = Battle victory wild
+TrainerBattleBGM = Battle_trainer
+SurfBGM = Surfing
+BicycleBGM = Bicycle
+Home = 76,45,26,8
+WildBattleBGM = Battle_wild
 #-------------------------------
 [001]
 # Intro
@@ -210,6 +210,14 @@ Outdoor = true
 BicycleAlways = true
 ShowArea = true
 #-------------------------------
+[043]
+# New Bark Town
+Bicycle = true
+TrainerBattleBGM = Battle_Trainer_Johto_HGSS
+Outdoor = true
+WildBattleBGM = Battle_Wild_Johto_HGSS
+ShowArea = true
+#-------------------------------
 [044]
 # Route 6
 MapSize = 2,11
@@ -390,3 +398,14 @@ MapPosition = 0,12,10
 BattleBack = city
 MapPosition = 1,13,16
 Outdoor = true
+#-------------------------------
+[076]
+# New Bark Town houses
+TrainerVictoryME = Battle victory trainer
+TrainerBattleBGM = Battle_Trainer_Johto_HGSS
+HealingSpot = 43,23,17
+#-------------------------------
+[077]
+# Elm Pokémon Lab
+TrainerVictoryME = Battle victory trainer
+TrainerBattleBGM = Battle_Trainer_Johto_HGSS

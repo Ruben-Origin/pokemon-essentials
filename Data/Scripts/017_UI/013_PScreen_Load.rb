@@ -252,6 +252,7 @@ class PokemonLoadScreen
   end
 
   def pbStartLoadScreen
+    pbBGMPlay("Someday_SM")
     $PokemonTemp   = PokemonTemp.new
     $game_temp     = Game_Temp.new
     $game_system   = Game_System.new
@@ -335,6 +336,7 @@ class PokemonLoadScreen
           pbPlayBuzzerSE
           next
         end
+        pbBGMFade(0.8)
         pbPlayDecisionSE
         @scene.pbEndScene
         metadata = nil
@@ -415,6 +417,7 @@ class PokemonLoadScreen
             event.clear_starting
           end
         end
+        pbBGMFade(0.8)
         $game_temp.common_event_id = 0 if $game_temp
         $scene               = Scene_Map.new
         Graphics.frame_count = 0

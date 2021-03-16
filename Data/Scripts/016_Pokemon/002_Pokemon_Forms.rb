@@ -37,6 +37,12 @@ class PokeBattle_Pokemon
     return pbGetFSpeciesFromForm(@species,formSimple)
   end
 
+####### Added for Flexible Advanced Starter Selection Script (FASS) by Limnodromus
+  def fName
+    return pbGetMessage(MessageTypes::FormNames,fSpecies)
+  end
+#######
+
   alias __mf_initialize initialize
   def initialize(*args)
     @form = (pbGetSpeciesFromFSpecies(args[0])[1] rescue 0)

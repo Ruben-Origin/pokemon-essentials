@@ -266,6 +266,28 @@ Land
     SLUGMA,13,14
     SLUGMA,13,14
 #-------------------------------
+043 # New Bark Town
+25,10,10
+Water
+    TENTACOOL,10,25
+    TENTACOOL,10,25
+    TENTACRUEL,10,25
+    TENTACRUEL,10,25
+    TENTACRUEL,10,25
+OldRod
+    MAGIKARP,10
+    TENTACOOL,10
+GoodRod
+    MAGIKARP,20
+    SHELLDER,20
+    CHINCHOU,20
+SuperRod
+    TENTACRUEL,40
+    SHELLDER,40
+    CHINCHOU,40
+    LANTURN,40
+    LANTURN,40
+#-------------------------------
 044 # Route 6
 25,10,10
 Land
