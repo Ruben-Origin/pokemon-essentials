@@ -491,3 +491,63 @@ Land
     CUBONE,11,14
     CUBONE,11,14
     CUBONE,11,14
+#-------------------------------
+078 # Route 29
+25,10,10
+HeadbuttLow
+    HOOTHOOT,2,5
+    EXEGGCUTE,2,5
+    SPINARAK,4,5
+    LEDYBA,4,5
+    LEDYBA,4,5
+    PINECO,2,3
+    PINECO,2,3
+    PINECO,2,3
+HeadbuttHigh
+    HOOTHOOT,2,5
+    EXEGGCUTE,2,5
+    LEDYBA,4,5
+    SPINARAK,4,5
+    SPINARAK,4,5
+    PINECO,2,3
+    PINECO,2,3
+    PINECO,2,3
+LandMorning
+    PIDGEY,2,4
+    PIDGEY,2,4
+    PIDGEY,2,4
+    SENTRET,2,4
+    SENTRET,2,4
+    SENTRET,2,4
+    PIDGEY,2,4
+    RATTATA,2,4
+    SENTRET,2,4
+    SENTRET,2,4
+    SENTRET,2,4
+    SENTRET,2,4
+LandDay
+    PIDGEY,2,4
+    PIDGEY,2,4
+    PIDGEY,2,4
+    SENTRET,2,4
+    SENTRET,2,4
+    SENTRET,2,4
+    PIDGEY,2,4
+    RATTATA,2,4
+    SENTRET,2,4
+    SENTRET,2,4
+    SENTRET,2,4
+    SENTRET,2,4
+LandNight
+    HOOTHOOT,2,4
+    HOOTHOOT,2,4
+    HOOTHOOT,2,4
+    HOOTHOOT,2,4
+    HOOTHOOT,2,4
+    RATTATA,2,4
+    RATTATA,2,4
+    HOOTHOOT,2,4
+    HOOTHOOT,2,4
+    HOOTHOOT,2,4
+    HOOTHOOT,2,4
+    HOOTHOOT,2,4

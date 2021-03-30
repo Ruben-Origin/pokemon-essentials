@@ -400,12 +400,18 @@ MapPosition = 1,13,16
 Outdoor = true
 #-------------------------------
 [076]
-# New Bark Town houses
-TrainerVictoryME = Battle victory trainer
+# New Bark Town
 TrainerBattleBGM = Battle_Trainer_Johto_HGSS
 HealingSpot = 43,23,17
 #-------------------------------
 [077]
 # Elm Pokémon Lab
-TrainerVictoryME = Battle victory trainer
 TrainerBattleBGM = Battle_Trainer_Johto_HGSS
+#-------------------------------
+[078]
+# Route 29
+Bicycle = true
+Outdoor = true
+ShowArea = true
+TrainerBattleBGM = Battle_Trainer_Johto_HGSS
+WildBattleBGM = Battle_Wild_Johto_HGSS
